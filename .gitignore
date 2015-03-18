@@ -6,5 +6,7 @@ target/
 
 /.classpath
 
+.idea
+*.iml
 /.project
 /mossle.store
